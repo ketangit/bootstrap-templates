@@ -1,0 +1,23 @@
+{
+    "title": "bootstrap-templates",
+    "name": "bootstrap-templates",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "gulp watch"
+    },
+    "description": "A basic HTML starter template for Bootstrap",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ketangit/bootstrap-templates.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.3.1",
+        "jquery": "3.4.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.5",
+        "del": "^4.1.1",
+        "gulp": "4.0.2",
+        "merge-stream": "^1.0.1"
+    }
+}
